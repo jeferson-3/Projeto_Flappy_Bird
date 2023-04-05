@@ -16,7 +16,7 @@
 
 ## 🖥️ Projeto
 
-Projeto Flappy Bird e um joginho que tem como objetivo controlar um passaro entre os obstaculos com o intuito de fazer o maximo de pontos possível.
+Projeto Flappy Bird e um jogo que tem como objetivo controlar um passaro entre os obstaculos com o intuito de fazer o maximo de pontos possível.
 
 - [📌Acesse o projeto finalizado, online](https://jeferson-3.github.io/Projeto_Flappy_Bird/)
 
